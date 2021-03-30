@@ -1,0 +1,14 @@
+{
+  "valido": {
+    "username": "seus dados aqui",
+    "password": "seus dados aqui",
+    "urlProfile": "https://moodle.unipampa.edu.br/moodle/user/profile.php?id=32923",
+    "urlLogin": "https://moodle.unipampa.edu.br/moodle/login/index.php"
+  },
+  "invalido": {
+    "urlLogin": "https://moodle.unipampa.edu.br/moodle/login/index.php",
+    "username": "19015",
+    "password": "349048129hdjkehdsjkxcpsdklçgsdop32",
+    "msgErro": "Nome de usuário ou senha errados. Por favor tente outra vez."
+  }
+}
